@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Labo5ListeTaches</string>
+    <string name="description">Description</string>
+    <string name="nouvelle_tache">Ajout de tache</string>
+    <string name="edition_tache">Edition tache</string>
+    <string name="nom_de_la_tache">Nom de la tache</string>
+    <string name="nombre_de_t_ches">Nombre de tâches</string>
+    <string name="ajouter_une_t_che">Ajouter une tâche</string>
+    <string name="liste_des_t_ches_compl_ter">Liste des tâches à compléter</string>
+</resources>

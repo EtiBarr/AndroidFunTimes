@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="bienvenue_tic_tac_toe">Bienvenue à Tic Tac Toe</string>
+    <string name="etat">affichage</string>
+    <string name="joueur_x_gagne">"Le joueur X a gagné"</string>
+    <string name="joueur_o_gagne">"Le joueur O a gagné"</string>
+    <string name="joueur_o_gagne_appuyer_jouer">""Le tour du joueur O - Appuyez pour jouer""</string>
+    <string name="joueur_x_gagne_appuyer_jouer">""Le tour du joueur X - Appuyez pour jouer""</string>
+    <string name="le_tour_de_x">"C'est le tour de X - Appuyez pour jouer"</string>
+    <string name="le_tour_de_o">"C'est le tour de O - Appuyez pour jouer"</string>
+    <string name="match_nul">Match nul</string>
+</resources>
